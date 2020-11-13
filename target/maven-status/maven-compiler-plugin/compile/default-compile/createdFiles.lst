@@ -1,0 +1,7 @@
+cl\devops\calculadora10\dto\Calculadora.class
+cl\devops\calculadora10\dto\CalculadoraRequestDTO.class
+cl\devops\calculadora10\Calculadora10Application.class
+cl\devops\calculadora10\controller\CalculadoraController.class
+cl\devops\calculadora10\configuration\CalculadoraConfig.class
+cl\devops\calculadora10\dto\CalculadoraResponseDTO.class
+cl\devops\calculadora10\controller\service\CalculadoraService.class
